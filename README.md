@@ -2,7 +2,8 @@
 
 
 Welcome to my repository containing reports and presentations from my graduate school work. Below, you'll find a collection of papers covering various topics in computer science, machine learning, and quantum computing.
-
+## Link to current resume
+- [Resume](https://github.com/patwiz/GraduatePapers/blob/main/JPW.resume2024.pdf)
 ## Object Detection for Stop Signs in Roads
 This paper explores the application of object detection techniques to identify stop signs in road environments. The study focuses on the challenges associated with detecting stop signs in varying conditions and proposes a solution leveraging computer vision algorithms.
 
