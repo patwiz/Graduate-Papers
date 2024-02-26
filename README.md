@@ -5,17 +5,14 @@ Welcome to my repository containing reports and presentations from my graduate s
 
 ## Object Detection for Stop Signs in Roads
 
-- [Report](link_to_object_detection_report.pdf)
-- [Presentation](link_to_object_detection_presentation.pdf)
+- [Report](https://github.com/patwiz/GraduatePapers/blob/main/DIP_Fall2021_Wisnewski.pdf)
 
 ## SVM Classification for Pulsar Star Dataset
 
-- [Report](link_to_svm_classification_report.pdf)
-- [Presentation](link_to_svm_classification_presentation.pdf)
+- [Report](https://github.com/patwiz/GraduatePapers/blob/main/MLPR%20Final%20Project%20Report%20-%20Wisnewksi.pdf)
 
 ## Mix Match Algorithm
 
-- [Report](link_to_mix_match_algorithm_report.pdf)
 - [Presentation](link_to_mix_match_algorithm_presentation.pdf)
 
 ## Quantum Simulation in Python with Qiskit Library
