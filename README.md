@@ -7,7 +7,7 @@ Welcome to my repository containing reports and presentations from my graduate s
 ## Object Detection for Stop Signs in Roads
 This paper explores the application of object detection techniques to identify stop signs in road environments. The study focuses on the challenges associated with detecting stop signs in varying conditions and proposes a solution leveraging computer vision algorithms.
 
-- [Report]([https://github.com/patwiz/GraduatePapers/blob/main/DIP_Fall2021_Wisnewski.pdf](https://github.com/patwiz/Graduate-Papers/blob/main/Object%20Detection%20for%20Stop%20Signs.pdf))
+- [Report](https://github.com/patwiz/GraduatePapers/blob/main/Object%20Detection%20for%20Stop%20Signs.pdf)
 
 ## SVM Classification for Pulsar Star Dataset
 The report delves into the use of Support Vector Machines (SVM) for classifying pulsar stars in astronomical datasets. It discusses the SVM classification approach, its implementation, and the results obtained in the context of identifying pulsars among celestial objects.
