@@ -15,7 +15,7 @@ The report delves into the use of Support Vector Machines (SVM) for classifying 
 
 ## Mix Match Algorithm
 This paper introduces and analyzes the Mix Match algorithm, a semi-supervised learning technique. The study explores how Mix Match improves model performance by combining labeled and unlabeled data, contributing to the field of machine learning and data classification.
-- [Presentation]([https://github.com/patwiz/GraduatePapers/blob/main/MixMatch%20paper%20presentation.pdf](https://github.com/patwiz/Graduate-Papers/blob/main/MixMatch%20Presentation.pdf))
+- [Presentation](https://github.com/patwiz/Graduate-Papers/blob/main/MixMatch%20Presentation.pdf)
 
 ## Quantum Simulation in Python with Qiskit Library
 In this work, the focus is on quantum computing and its application for simulation using the Qiskit library in Python. The paper discusses quantum simulation principles, presents a practical implementation using Qiskit, and explores the potential implications for solving complex computational problems.
