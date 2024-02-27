@@ -11,7 +11,7 @@ This paper explores the application of object detection techniques to identify s
 
 ## SVM Classification for Pulsar Star Dataset
 The report delves into the use of Support Vector Machines (SVM) for classifying pulsar stars in astronomical datasets. It discusses the SVM classification approach, its implementation, and the results obtained in the context of identifying pulsars among celestial objects.
-- [Report](https://github.com/patwiz/Graduate-Papers/blob/main/SVM%20For%20Pulsar%20Star%20Classification)
+- [Report](https://github.com/patwiz/Graduate-Papers/blob/main/SVM%20For%20Pulsar%20Star%20Classification.pdf)
 
 ## Mix Match Algorithm
 This paper introduces and analyzes the Mix Match algorithm, a semi-supervised learning technique. The study explores how Mix Match improves model performance by combining labeled and unlabeled data, contributing to the field of machine learning and data classification.
